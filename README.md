@@ -1,16 +1,12 @@
-AISDI - Mini-projekt "liniowe"
-==============================
+AISDI - Mini-projekt "asocjacyjne"
+==================================
 
 Cel ćwiczenia
 -----------------------------
-Zapoznanie się poprzez implementację i testowanie z różnymi strukturami liniowymi.
+Zapoznanie się poprzez implementację i testowanie z różnymi strukturami asocjacyjnymi (słownikami).
 
 Zadanie do wykonania
 -----------------------------
-  1. Implementacja struktury liniowej o ciągłej alokacji przestrzeni (wektor).
-     Struktura powinna wykorzystywać pre-alokację (podczas alokacji alokować "z zapasem", tak by
-     nie każda operacja wymagała oddzielnej alokacji).
-  2. Implementacja struktury liniowej opartej o listę dwukierunkową.
-  3. Porównanie efektywności czasowej tych dwóch kolekcji dla co najmniej dwóch różnych operacji
-     (np. wstawianie na początek kolekcji i usuwanie elementu z końca itd. itp.).
-
+  1. Implementacja słownika opartego o drzewo binarne.
+  2. Implementacja słownika opartego o funkcję mieszającą (hashmapa - tablica z kubełkami).
+  3. Porównanie efektywności czasowej tych dwóch kolekcji dla co najmniej dwóch różnych operacji.
