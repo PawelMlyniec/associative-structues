@@ -1,12 +1,21 @@
-AISDI - Mini-projekt "asocjacyjne"
+# Associative structures
 ==================================
 
-Cel ćwiczenia
+## Object
 -----------------------------
-Zapoznanie się poprzez implementację i testowanie z różnymi strukturami asocjacyjnymi (słownikami).
+Learn through implementation and testing diffrent associative structues
 
-Zadanie do wykonania
+Task:
 -----------------------------
-  1. Implementacja słownika opartego o drzewo binarne.
-  2. Implementacja słownika opartego o funkcję mieszającą (hashmapa - tablica z kubełkami).
-  3. Porównanie efektywności czasowej tych dwóch kolekcji dla co najmniej dwóch różnych operacji.
+  1. Implementation of dictionary based on binary tree 
+  2. Implementation of dictonary based on hashmap
+  3. Campare efficiency of diffrent operations on collections. 
+  
+## Requirements
+--------------------------
+
+ - C++11 compatible compiler (g++ 4.7/4.8)
+ - GNU make
+ - Boost Libraries (Unit Test Framework)
+
+
